@@ -3,8 +3,8 @@
 <h2 align="center">Hello there! Ravi Sharma here! 👋🤓</h2>
 <p align="center">I'm a Frontend Developer, Graphic Designer, UI/UX Designer and Coffee Lover.
 I'm also currently doing my B.Tech in CSE while working on many other projects too.
-I currently passionate about ReactJs, Progressive Web Apps and designing Web Interfaces.
-When I'm not developing and building things, you can find me on Youtube learning, Photography, watching web series, daydreaming actionpacked dreams. But most of my days are spent working on projects and learning new skills.</p>
+I am currently passionate about ReactJs, Progressive Web Apps, creating digital strategies products and services for companies and startups.
+In my free time, I like to capture photographs of the serene beauty of nature. I highly value the balance between work and personal life. My interest includes travelling, exploring and capturing the moment. When I am not working, you will find me indulged in playing badminton, movies and friends. I love meeting new people and learning new things. Love to be the version of myself!</p>
 
 ### 📫 Where to find me
 - [Facebook](http://facebook.com/profile.php?id=100005406161244) 😏
