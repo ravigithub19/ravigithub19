@@ -1,4 +1,4 @@
-### Hi there, I'm Ravi Sharma 👋
+## Hi there, I'm Ravi Sharma 👋
 
 ## I'm a Student, UI/UX Designer, Frontend Developer and Coffee Lover!!
 
