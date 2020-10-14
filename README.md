@@ -1,6 +1,6 @@
 ## [![Ravi Sharma's header](https://github.com/ravigithub19/ravigithub19/blob/main/img/Desktop%20-%201%20(11).png)](https://ravisharma.co.in)
 
-### Hi! This is Ravi Sharma 👋
+## Hi! This is Ravi Sharma 👋
 <a href="https://www.linkedin.com/in/ravisharma18">
   <img align="left" alt="Ravi's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
