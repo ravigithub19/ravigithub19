@@ -1,4 +1,4 @@
-## [![Ravi Sharma's header](https://github.com/ravigithub19/ravigithub19/blob/main/img/Desktop%20-%201%20(11).png)](https://ravisharma.co.in)
+## [![Ravi Sharma's header](https://github.com/ravigithub19/ravigithub19/blob/main/img/github_coverPhoto.png)](https://ravisharma.co.in)
 
 ## Hi! This is Ravi Sharma 👋
 <a href="https://www.linkedin.com/in/ravisharma18">
