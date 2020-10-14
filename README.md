@@ -33,8 +33,9 @@
 - 🌱 I’m currently learning and exploring ReactJS.
 - 🤔 I’m looking for internships in Frontend Development & UI/UX Design.
 - 💬 Ask me about HTML, CSS, Javascript and UI/UX Designing.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ravisharma18)
-
+- 💨 Tech & Design Freak.
+- ✈  Love travelling and exploring.
+- 📫 How to reach me: [Website](https://ravisharma.co.in)
 
 
 **Languages and Tools:**  
@@ -54,4 +55,3 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ravigithub19&show_icons=true&theme=dracula&line_height=27" alt="Ravi's github stats"/>
 </a>
 
-### Show some ❤️ by starring some of the repositories!
