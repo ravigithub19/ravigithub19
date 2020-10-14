@@ -1,14 +1,5 @@
 ## [![Ravi Sharma's header](https://github.com/ravigithub19/ravigithub19/blob/main/img/Desktop%20-%201%20(11).png)](https://ravisharma.co.in)
 
-### 📫 Where to find me
-- [Facebook](http://facebook.com/profile.php?id=100005406161244) 😏
-- [Twitter](https://twitter.com/RaviSha19828890) 🐤
-- [Instagram](http://instagram.com/_imravisharma) 😎
-- [LinkedIn](https://linkedin.com/in/ravisharma18) 👨💼
-- [Website](https://ravisharma.co.in) 😏🔗
-- [Behance](https://www.behance.net/ravikumar93) 😎 
-- [Blog](https://raviphotogravi.blogspot.com/) 🤓💻
-
 ### Hi! This is Ravi Sharma 👋
 <a href="https://www.linkedin.com/in/ravisharma18">
   <img align="left" alt="Ravi's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -47,13 +38,13 @@
 
 
 **Languages and Tools:**  
+
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
 
 <a href="https://github.com/ravigithub19">
