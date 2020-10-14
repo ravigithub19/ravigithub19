@@ -35,7 +35,7 @@
 - 💬 Ask me about HTML, CSS, Javascript and UI/UX Designing.
 - 💨 Tech & Design Freak.
 - ✈  Love travelling and exploring.
-- 📫 How to reach me: [Website](https://ravisharma.co.in)
+- 📫 How to reach me - [Website](https://ravisharma.co.in)
 
 
 **Languages and Tools:**  
