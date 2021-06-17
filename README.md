@@ -30,9 +30,8 @@
 
 
 - 🔭 I'm a Frontend Developer, Graphic Designer, UI/UX Designer and Coffee Lover.
-- 🌱 I’m currently learning and exploring ReactJS.
-- 🤔 I’m looking for internships in Frontend Development & UI/UX Design.
-- 💬 Ask me about HTML, CSS, Javascript and UI/UX Designing.
+- 🌱 I’m currently learning and exploring MERN.
+- 💬 Ask me about Frontend Development, MERN Stack and UI/UX Designing.
 - 💨 Tech & Design Freak.
 - ✈  Love travelling and exploring.
 - 📫 How to reach me - [Website](https://ravisharma.co.in)
