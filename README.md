@@ -32,7 +32,6 @@
 - 💬 Ask me about Frontend Development, MERN Stack and UI/UX Designing.
 - 💨 Tech & Design Freak.
 - ✈  Love travelling and exploring.
-- 📫 How to reach me - [Website](https://ravisharma.co.in)
 
 
 **Languages and Tools:**  
